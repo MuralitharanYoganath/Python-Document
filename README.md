@@ -184,14 +184,14 @@ Methods are a powerful way to define the behavior of objects in Python. They all
 
 In Python, methods and functions have similar purposes but differ in important ways. Functions are independent blocks of code that can be called from anywhere, while methods are tied to objects or classes and need an object or class instance to be invoked.
 
-| Parameter   | Method                                                    | Function                                                         |
-| ----------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
-| Definition  | Method definitions are always present inside a class.     | No class is needed to define a function.                         |
-| Association | Associated with the class object.                         | Not associated with any objects.                                 |
-| Call        | It is called on an object.                                | It is called by its name.                                        |
-| Dependency  | It depends on the class they belong to.                   | It doesn’t depend on any class, i.e., it is an identical entity. |
-| self        | It requires the self as its first argument.               | It doesn’t require any self-argument.                            |
-| operation   | It operates on the data of the object it associates with. | It operates on the data that you pass to them as an argument.    |
+| Parameter       | Method                                                    | Function                                                         |
+| --------------- | --------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Definition**  | Method definitions are always present inside a class.     | No class is needed to define a function.                         |
+| **Association** | Associated with the class object.                         | Not associated with any objects.                                 |
+| **Call**        | It is called on an object.                                | It is called by its name.                                        |
+| **Dependency**  | It depends on the class they belong to.                   | It doesn’t depend on any class, i.e., it is an identical entity. |
+| **self**        | It requires the self as its first argument.               | It doesn’t require any self-argument.                            |
+| **operation**   | It operates on the data of the object it associates with. | It operates on the data that you pass to them as an argument.    |
 
 # How to install Python
 
