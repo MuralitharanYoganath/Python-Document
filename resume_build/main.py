@@ -13,7 +13,7 @@ profile_pic = current_dir / "styles" / "MT.jpg"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Websitegit CV | Muralitharan Yoganath"
+PAGE_TITLE = "Website CV | Muralitharan Yoganath"
 PAGE_ICON = ":wave:"
 NAME = "Muralitharan Yoganath"
 DESCRIPTION = """
