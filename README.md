@@ -10,6 +10,7 @@
    - [What if we don’t use OOPS?](#what-if-we-dont-use-oops?)
    - [What is Class?](#what-is-class?)
    - [What is Object and Methods?](#what-is-object-and-methods?)
+   - [Difference between Methods and Functions?](#Difference-between-Methods-and-Functions?)
 2. [How to install Python](#how-to-install-python)
 3. [Course Materials](#course-materials)
 4. [Create a Class](#create-a-class)
