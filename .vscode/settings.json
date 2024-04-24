@@ -1,0 +1,7 @@
+{
+    "[markdown]": {
+        "editor.tabCompletion": "on",
+        "editor.quickSuggestions": "true",
+        "editor.snippetSuggestions": "top"
+     },
+}
