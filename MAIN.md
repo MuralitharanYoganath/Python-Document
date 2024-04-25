@@ -73,7 +73,6 @@ font:     Noto Sans Egyptian Hieroglyphs, Noto Sans Ogham
     - [Macros](#macros)
         - [1. Macro Basics](#1-macro-basics)
         - [2. Basic macros](#2-basic-macros)
-        - [3. ]
 
 ## Introduction of LiaScript
 
